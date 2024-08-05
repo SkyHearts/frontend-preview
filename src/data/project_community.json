@@ -1,0 +1,530 @@
+[
+    {
+      "Name": "Kyber Network",
+      "Category": "DeFi",
+      "Base Where": "Vietnam,Singapore",
+      "About": "Crosschain DEX & aggregator on 15 chains",
+      "Website": "https://kyber.network",
+      "Twitter": "https://twitter.com/KyberNetwork"
+    },
+    {
+      "Name": "Pendle Finance",
+      "Category": "DeFi",
+      "Base Where": "Singapore",
+      "About": "A permissionless yield-trading protocol where users can execute various yield-management strategies.",
+      "Website": "https://www.pendle.finance",
+      "Twitter": "https://twitter.com/pendle_fi"
+    },
+    {
+      "Name": "Aevo, fka Ribbon Finance",
+      "Category": "DeFi",
+      "Base Where": "Malaysia,Singapore",
+      "About": "Crypto structured products protocol on Ethereum",
+      "Website": "https://www.ribbon.finance/",
+      "Twitter": "https://twitter.com/ribbonfinance"
+    },
+    {
+      "Name": "Perpetual protocol",
+      "Category": "DeFi",
+      "Base Where": "Taiwan",
+      "About": "Decentralized trading protocol on Optimis",
+      "Website": "https://perp.com",
+      "Twitter": "https://twitter.com/perpprotocol"
+    },
+    {
+      "Name": "Furucombo",
+      "Category": "DeFi",
+      "Base Where": "Taiwan",
+      "About": "DeFi aggregator",
+      "Website": "https://furucombo.app/",
+      "Twitter": "https://twitter.com/furucombo"
+    },
+    {
+      "Name": "Stella",
+      "Category": "DeFi",
+      "Base Where": "Thailand",
+      "About": "Leveraged Strategies Protocol on Arbitrum",
+      "Website": "https://app.stellaxyz.io/",
+      "Twitter": "https://twitter.com/stellaxyz_"
+    },
+    {
+      "Name": "INIT Capital",
+      "Category": "DeFi",
+      "Base Where": "Thailand",
+      "About": "The Liquidity Hook Money Market on Mantle",
+      "Website": "https://init.capital/",
+      "Twitter": "https://twitter.com/InitCapital_"
+    },
+    {
+      "Name": "EthSign",
+      "Category": "Infrastructure",
+      "Base Where": "China,Singapore",
+      "About": "Trust-less signing protocol",
+      "Website": "https://www.ethsign.xyz/",
+      "Twitter": "https://twitter.com/ethsign"
+    },
+    {
+      "Name": "Altlayer",
+      "Category": "Infrastructure",
+      "Base Where": "Singapore",
+      "About": "A decentralized protocol that facilitates the launch of native and restaked rollups",
+      "Website": "https://altlayer.io/",
+      "Twitter": "https://twitter.com/alt_layer"
+    },
+    {
+      "Name": "imToken",
+      "Category": "Infrastructure,Wallet",
+      "Base Where": "China,Singapore",
+      "About": "Ethereum & Bitcoin Wallet",
+      "Website": "https://token.im",
+      "Twitter": "https://twitter.com/imTokenOfficial"
+    },
+    {
+      "Name": "Rabby Wallet",
+      "Category": "Infrastructure,Wallet",
+      "Base Where": "China,Singapore",
+      "About": "User friendly wallet for Ethereum and all EVM chains",
+      "Website": "https://rabby.io",
+      "Twitter": "https://twitter.com/Rabby_io"
+    },
+    {
+      "Name": "Loopring",
+      "Category": "Infrastructure,L2",
+      "Base Where": "China",
+      "About": "Ethereum (Layer 2+3) ZK Rollup Protocol",
+      "Website": "https://loopring.org/#/",
+      "Twitter": "https://twitter.com/loopringorg"
+    },
+    {
+      "Name": "Taiko",
+      "Category": "Infrastructure,L2",
+      "Base Where": "China,Singapore,Global",
+      "About": "Decentralized, Ethereum-equivalent (Type 1) zkEVM.",
+      "Website": "https://taiko.xyz",
+      "Twitter": "https://twitter.com/taikoxyz"
+    },
+    {
+      "Name": "Scroll",
+      "Category": "Infrastructure,L2",
+      "Base Where": "China,Global",
+      "About": "Native zkEVM Layer 2 for Ethereum",
+      "Website": "https://scroll.io",
+      "Twitter": "https://twitter.com/Scroll_ZKP"
+    },
+    {
+      "Name": "Mantle",
+      "Category": "Infrastructure,L2",
+      "Base Where": "Singapore",
+      "About": "An L2 scalability solution built on top of Ethereum",
+      "Website": "https://www.mantle.xyz/",
+      "Twitter": "https://twitter.com/0xMantle"
+    },
+    {
+      "Name": "Etherscan",
+      "Category": "Infrastructure,Explorer",
+      "Base Where": "Malaysia",
+      "About": "A Block Explorer and Analytics Platform for Ethereum",
+      "Website": "https://etherscan.io",
+      "Twitter": "https://twitter.com/etherscan"
+    },
+    {
+      "Name": "CoinGecko",
+      "Category": "Infrastructure,Data Platform",
+      "Base Where": "Malaysia",
+      "About": "Independent crypto data aggregator",
+      "Website": "https://www.coingecko.com",
+      "Twitter": "https://twitter.com/coingecko"
+    },
+    {
+      "Name": "Sky Mavis",
+      "Category": "Gaming/ Metaverse",
+      "Base Where": "Vietnam",
+      "About": "Game studio which develops the Axie Infinity, a blockchain game which uses Ethereum-based cryptocurrencies",
+      "Website": "https://skymavis.com",
+      "Twitter": "https://twitter.com/AxieInfinity"
+    },
+    {
+      "Name": "Yield Guild Games",
+      "Category": "Gaming/ Metaverse",
+      "Base Where": "Philippines",
+      "About": "The world's first and biggest web3 gaming guild",
+      "Website": "https://www.yieldguild.io",
+      "Twitter": "https://twitter.com/YieldGuild"
+    },
+    {
+      "Name": "Topology",
+      "Category": "Gaming/ Metaverse",
+      "Base Where": "Taiwan ,Global",
+      "About": "Onchain realities on ZK Rollup",
+      "Website": "https://www.topology.gg/",
+      "Twitter": "https://twitter.com/topology_gg"
+    },
+    {
+      "Name": "Tetration Lab",
+      "Category": "Gaming/ Metaverse",
+      "Base Where": "Thailand",
+      "About": "Research and Development Lab for Cryptography, Web3, and On-chain Game.",
+      "Website": "https://www.tetrationlab.com/",
+      "Twitter": "https://twitter.com/Tetration_Lab"
+    },
+    {
+      "Name": "Zonic",
+      "Category": "NFT",
+      "Base Where": "Thailand",
+      "About": "NFT Marketplace across Ethereum Layer 2",
+      "Website": "https://zonic.app",
+      "Twitter": "https://twitter.com/ZonicApp"
+    },
+    {
+      "Name": "Bored Town",
+      "Category": "NFT",
+      "Base Where": "Thailand",
+      "About": "NFT project on Optimism",
+      "Website": "https://opensea.io/collection/boredtown",
+      "Twitter": "https://twitter.com/BoredTownNFT"
+    },
+    {
+      "Name": "togETHer",
+      "Category": "Community",
+      "Base Where": "China",
+      "About": "A group of communities to promote Ethereum in China",
+      "Website": "https://github.com/tog-ETH-er",
+      "Twitter": null
+    },
+    {
+      "Name": "PlanckerDAO",
+      "Category": "Community",
+      "Base Where": "China",
+      "About": "A group of Engineers, Reseachers, PMs from Asia who long for building the Ethereum eco in the Great China",
+      "Website": "https://plancker.org/",
+      "Twitter": "https://twitter.com/PlanckerDao"
+    },
+    {
+      "Name": "ZKP Labs",
+      "Category": "Community",
+      "Base Where": "Vietnam",
+      "About": "A non-profit organization dedicated to establishing ZKP focused environment in SEA for studying, development and construction of the Zero-knowledge proof resource",
+      "Website": "https://zkplabs.network/",
+      "Twitter": "https://twitter.com/ZKPLabs"
+    },
+    {
+      "Name": "Solidity Singapore",
+      "Category": "Community,Meetup",
+      "Base Where": "Singapore",
+      "About": "Technical (and not only) telegram chat for devs who are based in Singapore",
+      "Website": "N//A",
+      "Twitter": null
+    },
+    {
+      "Name": "ETH Penang",
+      "Category": "Community,Meetup",
+      "Base Where": "Malaysia",
+      "About": "Ethereum meetup in Penang, Malaysia, under ETHKL umbrella",
+      "Website": "https://www.eventbrite.sg/o/eth-penang-67167110463",
+      "Twitter": null
+    },
+    {
+      "Name": "ETH63",
+      "Category": "Community,Meetup",
+      "Base Where": "Philippines",
+      "About": "An Ethereum community in Manila",
+      "Website": "https://t.co/MB9k2gYAqN",
+      "Twitter": null
+    },
+    {
+      "Name": "852devxyz",
+      "Category": "Community,Meetup",
+      "Base Where": "Hongkong",
+      "About": "Web3 dev community in Hongkong",
+      "Website": "https://linktr.ee/852devxyz",
+      "Twitter": "https://twitter.com/852devxyz"
+    },
+    {
+      "Name": "ETH Indonesia",
+      "Category": "Community,Meetup",
+      "Base Where": "Indonesia",
+      "About": "An Ethereum community in Jakarta",
+      "Website": null,
+      "Twitter": "https://twitter.com/eth_indo"
+    },
+    {
+      "Name": "Taipei Ethereum Meetup",
+      "Category": "Community,Meetup",
+      "Base Where": "Taiwan",
+      "About": "An Ethereum community in Taipei, organzing ethereum meetups since 2016",
+      "Website": "https://www.meetup.com/taipei-ethereum-meetup/",
+      "Twitter": "https://twitter.com/eth_taipei"
+    },
+    {
+      "Name": "Zero Knowledge Taipei",
+      "Category": "Community,Meetup",
+      "Base Where": "Taiwan",
+      "About": "ZK meetup in Taipei",
+      "Website": "https://lu.ma/calendar/cal-wM4BFmSsqcj4HmU",
+      "Twitter": null
+    },
+    {
+      "Name": "EthPadThai",
+      "Category": "Community,Meetup",
+      "Base Where": "Thailand",
+      "About": "A group of Ethereum professionals join forces to expand the knowledge and awareness of Ethereum in Thailand",
+      "Website": "https://ethpadthai.org",
+      "Twitter": "https://twitter.com/ethpadthai"
+    },
+    {
+      "Name": "THBUIDL",
+      "Category": "Community,Meetup",
+      "Base Where": "Thailand",
+      "About": "A gated community for founders and builders in Thailand working on projects in the web3 space.",
+      "Website": "https://thbuidl.xyz/",
+      "Twitter": "https://twitter.com/THBUIDL"
+    },
+    {
+      "Name": "ETHKL",
+      "Category": "Community,Meetup,Conference",
+      "Base Where": "Malaysia",
+      "About": "An Ethereum community in Kuala Lumpur, organizing ethereum meetups since 2016",
+      "Website": "https://www.meetup.com/ethmalaysia/",
+      "Twitter": "https://twitter.com/ETHKL1"
+    },
+    {
+      "Name": "Ethereum Singapore",
+      "Category": "Community,Conference",
+      "Base Where": "Singapore",
+      "About": "An Ethereum community in Singapore",
+      "Website": "https://ethereumsingapore.com",
+      "Twitter": "https://twitter.com/ethereum_sg"
+    },
+    {
+      "Name": "ETH Taipei",
+      "Category": "Community,Conference",
+      "Base Where": "Taiwan",
+      "About": "Annual ethereum conference and hackathon in Taipei",
+      "Website": "https://ethtaipei.org",
+      "Twitter": "https://twitter.com/EthTaipei"
+    },
+    {
+      "Name": "ETHBangkok",
+      "Category": "Community,Conference",
+      "Base Where": "Thailand",
+      "About": "Annual ethereum conference in Bangkok, organized by Atato",
+      "Website": "https://www.atato.com/ethereum-bangkok-event-recap/",
+      "Twitter": null
+    },
+    {
+      "Name": "Dapp Learning",
+      "Category": "Community,Education",
+      "Base Where": "China",
+      "About": "An open-sourced developer community focusing on Ethereum and Layer2.",
+      "Website": "https://dapplearning.org",
+      "Twitter": "https://twitter.com/Dapp_Learning"
+    },
+    {
+      "Name": "WTF Academy",
+      "Category": "Community,Education",
+      "Base Where": "China",
+      "About": "Web3 Open University for Web2 devs",
+      "Website": "https://www.wtf.academy/",
+      "Twitter": "https://twitter.com/WTFAcademy_"
+    },
+    {
+      "Name": "ETHPlanet",
+      "Category": "Community,Education",
+      "Base Where": "China",
+      "About": "An org dedicated to Ethereum ecosystem development in China",
+      "Website": "https://ethplanet.org/6c096723cfdd45eb81542d284839b30a",
+      "Twitter": "https://twitter.com/ethplane"
+    },
+    {
+      "Name": "Ethereum Community Network, China",
+      "Category": "Community,Education",
+      "Base Where": "China",
+      "About": "A community focusing on ethereum education in China",
+      "Website": "https://www.ethereum.cn/",
+      "Twitter": "https://twitter.com/EthereumCN"
+    },
+    {
+      "Name": "ETH Shanghai",
+      "Category": "Conference",
+      "Base Where": "China",
+      "About": "Annual Ethereum conference in Shanghai",
+      "Website": "https://ethshanghai.org/hackathon",
+      "Twitter": null
+    },
+    {
+      "Name": "ETH Beijing",
+      "Category": "Conference",
+      "Base Where": "China",
+      "About": "Annual Ethereum conference in Beijing",
+      "Website": "https://www.ethbeijing.xyz/",
+      "Twitter": null
+    },
+    {
+      "Name": "ETH Hangzhou",
+      "Category": "Conference",
+      "Base Where": "China",
+      "About": "Annual Ethereum conference in Hangzhou",
+      "Website": "https://www.ethhangzhou.xyz/",
+      "Twitter": null
+    },
+    {
+      "Name": "ETH Hongkong",
+      "Category": "Conference",
+      "Base Where": "Hongkong",
+      "About": "An ethereum conference in Hongkong",
+      "Website": "https://www.ethhongkong.co/",
+      "Twitter": "https://twitter.com/EthereumHK"
+    },
+    {
+      "Name": "Call for Paper, under Taipei Ethereum Meetup",
+      "Category": "Education",
+      "Base Where": "Taiwan",
+      "About": "Technical Blog about ethereum maintained by community members from Taipei Ethereum Meetup",
+      "Website": "https://medium.com/taipei-ethereum-meetup",
+      "Twitter": null
+    },
+    {
+      "Name": "solidity.tw",
+      "Category": "Education",
+      "Base Where": "Taiwan",
+      "About": "Solidity course",
+      "Website": "https://www.youtube.com/watch?v=fpA2yxLKU5o&list=PLHmOMPRfmOxQYDnXAc1hKY6ra4WDU8ZlM",
+      "Twitter": null
+    },
+    {
+      "Name": "Fudan University, Blockchain Club",
+      "Category": "Education,Blockchain Club",
+      "Base Where": "China",
+      "About": "Blockchain Club at Fudan University",
+      "Website": "https://www.fudanblockchain.club/",
+      "Twitter": null
+    },
+    {
+      "Name": "Peking University, Blockchain Club",
+      "Category": "Education,Blockchain Club",
+      "Base Where": "China",
+      "About": "Blockchain Club at Peking University",
+      "Website": null,
+      "Twitter": "https://twitter.com/pkublockchain"
+    },
+    {
+      "Name": "National University of Singapore, Blockchain under NUS Fintech Society",
+      "Category": "Education,Blockchain Club",
+      "Base Where": "Singapore",
+      "About": "Blockchain Club at NUS",
+      "Website": "https://fintechsociety.comp.nus.edu.sg/departments/blockchain",
+      "Twitter": null
+    },
+    {
+      "Name": "Nanyang Technological University, Blockchain Club",
+      "Category": "Education,Blockchain Club",
+      "Base Where": "Singapore",
+      "About": "Blockchain Club at NTU",
+      "Website": "https://www.ntu.edu.sg/cctf/cctf-community/blockchain@ntu",
+      "Twitter": null
+    },
+    {
+      "Name": "Singapore Management University, Blockchain Club",
+      "Category": "Education,Blockchain Club",
+      "Base Where": "Singapore",
+      "About": "Blockchain Club at SMU",
+      "Website": "https://www.smublockchainclub.com",
+      "Twitter": "https://twitter.com/smu_blockchain"
+    },
+    {
+      "Name": "Singapore University of Technology and Design, Blockchain Technology course",
+      "Category": "Education,Blockchain Club",
+      "Base Where": "Singapore",
+      "About": "A course about Blockchain Tehcnology, covering bitcoin and Ethereum foundations",
+      "Website": "https://istd.sutd.edu.sg/undergraduate/courses/50037-blockchain-technology/",
+      "Twitter": "https://twitter.com/SUTDBlockchain"
+    },
+    {
+      "Name": "Asia Pacific University of Technology & Innovation, Blockchain Club",
+      "Category": "Education,Blockchain Club",
+      "Base Where": "Malaysia",
+      "About": "Blockchain Club at APU",
+      "Website": "https://apubcc.org",
+      "Twitter": "https://twitter.com/apubcc"
+    },
+    {
+      "Name": "Sunway University",
+      "Category": "Education,Blockchain Club",
+      "Base Where": "Malaysia",
+      "About": "Blockchain Club at SU",
+      "Website": "https://sunwayblockchain.com/en",
+      "Twitter": "https://x.com/SunwayBCC"
+    },
+    {
+      "Name": "Nanyang Technological University, Master of Science in Blockchain",
+      "Category": "Education,Master Program",
+      "Base Where": "Singapore",
+      "About": "Master of Science in Blockchain Program at NTU, covering blockchain and its applications",
+      "Website": "https://www.ntu.edu.sg/cctf/ace-ntu/education-trust/master-of-science-in-blockchain",
+      "Twitter": null
+    },
+    {
+      "Name": "Hong Kong Polytechnic University, Master of Science in Blockchain Technology",
+      "Category": "Education,Master Program",
+      "Base Where": "Hongkong",
+      "About": "The first MSc in Blockchain Technology (MScBT) in Hong Kong",
+      "Website": "https://www.polyu.edu.hk/en/comp/study/taught-postgraduate-programme/msc-bt/",
+      "Twitter": null
+    },
+    {
+      "Name": "Peking University, Blockchain Technology and Applications",
+      "Category": "Education,Course",
+      "Base Where": "China",
+      "About": "A course about blockchain technology and applications",
+      "Website": "http://zhenxiao.com/blockchain/",
+      "Twitter": null
+    },
+    {
+      "Name": "Tsinghua Univeristy, Blockchain and Cryptocurrency",
+      "Category": "Education,Course",
+      "Base Where": "China",
+      "About": "A MOOC about blockchain and cryptocurrency fundamentals",
+      "Website": "https://www.xuetangx.com/course/thu12021002731/19318701",
+      "Twitter": null
+    },
+    {
+      "Name": "National Chengchi University, Ethereum DApp Development course",
+      "Category": "Education,Course",
+      "Base Where": "Taiwan",
+      "About": "Open Source course on Ethereum DApp Development at NCCU by prof Gong Chen and Changwu Chen",
+      "Website": "https://docs.google.com/document/d/16V3HBwE78-vOex58P8s59TMxifhQi85_-whUd1ACd40/edit",
+      "Twitter": null
+    },
+    {
+      "Name": "National Yang Ming Chiao Tung University, Blockchain Development and FinTech",
+      "Category": "Education,Course",
+      "Base Where": "Taiwan",
+      "About": "A course for blockchain development",
+      "Website": "https://bdaf.notion.site/Blockchain-Development-and-FinTech-fe3524ca2f3544dcb0555514bcc901e5",
+      "Twitter": null
+    },
+    {
+      "Name": "Curia Labs",
+      "Category": "DAO Tooling",
+      "Base Where": "Thailand",
+      "About": "Curia Lab develops and refines data-driven tools for DAO governance",
+      "Website": "https://www.curialab.xyz/",
+      "Twitter": "https://twitter.com/Curia_gov"
+    },
+    {
+      "Name": "Mest",
+      "Category": "On-chain Data Analytics",
+      "Base Where": "China",
+      "About": "A simple and open platform for sharing blockchain transactions.",
+      "Website": "https://mest.io/",
+      "Twitter": "https://twitter.com/mest_io"
+    },
+    {
+      "Name": "DeBank",
+      "Category": "On-chain Data Analytics",
+      "Base Where": "China,Singapore",
+      "About": "Web3 portfolio tracker that covers all tokens, DeFi protocols, NFTs across all EVM chains",
+      "Website": "https://debank.com",
+      "Twitter": "https://twitter.com/DeBankDeFi"
+    }
+  ]
